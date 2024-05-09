@@ -8,7 +8,7 @@ public class SeoeunhyoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SeoeunhyoApplication.class, args);
-		System.out.println("This is test text from eun!!!");
+		System.out.println("This is test text from eun!!");
 	}
 
 }
